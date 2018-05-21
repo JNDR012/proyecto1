@@ -1,0 +1,15 @@
+-git-(control de version)
+    branch
+    push
+    pull
+    commit
+    tags
+    merge
+-Aprender comando basicos linux
+	Tres tipos de root
+
+
+
+
+*Crear directorios proyecto 1
+	mkdir nombrecarpeta
