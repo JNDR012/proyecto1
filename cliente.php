@@ -1,3 +1,3 @@
 <?php
 echo"Programa Cliente";
-algo a  editsdas
+algo a  editsd
